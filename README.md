@@ -22,7 +22,38 @@ A beginner-level Student Registration System developed using PHP and MySQL.
 - PHP
 - MySQL
 - XAMPP
+Database
 
+Database name:
+
+student_registration
+
+Table:
+
+students
+
+## How to Run
+
+1. Install XAMPP.
+2. Start Apache and MySQL.
+3. Copy the project into the XAMPP htdocs folder.
+4. Create the student_registration database.
+5. Create the students table.
+6. Open the project using localhost.
+
+## What I Learned
+
+- PHP
+- MySQL
+- CRUD operations
+- SQL
+- Database connections
+- Form handling
+- Validation
+- Prepared statements
+- Basic security
+- Manual testing
+  
 ## Project Structure
 
 ```text
