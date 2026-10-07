@@ -67,3 +67,9 @@ student-registration-system/
 ├── css/
 ├── js/
 └── screenshots/
+```
+
+
+Live demo: [https://student-management.rf.gd/]
+Portfolio: [https://d-sandeepani.github.io/Portfolio/]
+
